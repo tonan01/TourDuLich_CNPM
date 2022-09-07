@@ -1,0 +1,345 @@
+D:\Project-DuAn\QuanLyTourDuLich_CNPM\QLTourDuLich\QLTourDuLich\bin\Debug\QLTourDuLich.exe.config
+D:\Project-DuAn\QuanLyTourDuLich_CNPM\QLTourDuLich\QLTourDuLich\bin\Debug\QLTourDuLich.exe
+D:\Project-DuAn\QuanLyTourDuLich_CNPM\QLTourDuLich\QLTourDuLich\bin\Debug\QLTourDuLich.pdb
+D:\Project-DuAn\QuanLyTourDuLich_CNPM\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.csproj.AssemblyReference.cache
+D:\Project-DuAn\QuanLyTourDuLich_CNPM\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.csproj.SuggestedBindingRedirects.cache
+D:\Project-DuAn\QuanLyTourDuLich_CNPM\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Properties.Resources.resources
+D:\Project-DuAn\QuanLyTourDuLich_CNPM\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.csproj.GenerateResource.cache
+D:\Project-DuAn\QuanLyTourDuLich_CNPM\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.csproj.CoreCompileInputs.cache
+D:\Project-DuAn\QuanLyTourDuLich_CNPM\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.exe
+D:\Project-DuAn\QuanLyTourDuLich_CNPM\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.pdb
+D:\Project-DuAn\QuanLyTourDuLich_CNPM\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_DangNhap.resources
+D:\Project-DuAn\QuanLyTourDuLich_CNPM\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_DN_DK.Frm_DangKy.resources
+D:\Project-DuAn\QuanLyTourDuLich_CNPM\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_HomeAdmin.resources
+D:\Project-DuAn\QuanLyTourDuLich_CNPM\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_HomeNV.resources
+D:\Project-DuAn\QuanLyTourDuLich_CNPM\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_KH.Frm_HomeKH.resources
+D:\Project-DuAn\QuanLyTourDuLich_CNPM\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_DoiMKAdmin.resources
+D:\Project-DuAn\QuanLyTourDuLich_CNPM\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_QLDDTQ.resources
+D:\Project-DuAn\QuanLyTourDuLich_CNPM\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_QLKH.resources
+D:\Project-DuAn\QuanLyTourDuLich_CNPM\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_QLKS.resources
+D:\Project-DuAn\QuanLyTourDuLich_CNPM\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_QLNV.resources
+D:\Project-DuAn\QuanLyTourDuLich_CNPM\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_QLPT.resources
+D:\Project-DuAn\QuanLyTourDuLich_CNPM\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_QLTour.resources
+D:\Project-DuAn\QuanLyTourDuLich_CNPM\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_QLVe.resources
+D:\Project-DuAn\QuanLyTourDuLich_CNPM\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_KH.Frm_DoiMKKH.resources
+D:\Project-DuAn\QuanLyTourDuLich_CNPM\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_KH.Frm_DatTour.resources
+D:\Project-DuAn\QuanLyTourDuLich_CNPM\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_KH.Frm_TTCaNhanKH.resources
+D:\Project-DuAn\QuanLyTourDuLich_CNPM\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_DoiMKNV.resources
+D:\Project-DuAn\QuanLyTourDuLich_CNPM\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_QLKH_NV.resources
+D:\Project-DuAn\QuanLyTourDuLich_CNPM\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_QLTour_NV.resources
+D:\Project-DuAn\QuanLyTourDuLich_CNPM\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_QLVe_NV.resources
+D:\Project-DuAn\QuanLyTourDuLich_CNPM\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_TTCaNhan_NV.resources
+D:\Project-DuAn\QuanLyTourDuLich_CNPM\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_QLDDTQ_NV.resources
+D:\Project-DuAn\QuanLyTourDuLich_CNPM\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_QLKS_NV.resources
+D:\Project-DuAn\QuanLyTourDuLich_CNPM\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_QLPT_NV.resources
+D:\Project-DuAn\QuanLyTourDuLich_CNPM\QLTourDuLich\QLTourDuLich\bin\Debug\LamarCodeGeneration.dll
+D:\Project-DuAn\QuanLyTourDuLich_CNPM\QLTourDuLich\QLTourDuLich\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project-DuAn\QuanLyTourDuLich_CNPM\QLTourDuLich\QLTourDuLich\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Project-DuAn\QuanLyTourDuLich_CNPM\QLTourDuLich\QLTourDuLich\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Project-DuAn\QuanLyTourDuLich_CNPM\QLTourDuLich\QLTourDuLich\bin\Debug\System.ValueTuple.dll
+D:\Project-DuAn\QuanLyTourDuLich_CNPM\QLTourDuLich\QLTourDuLich\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Project-DuAn\QuanLyTourDuLich_CNPM\QLTourDuLich\QLTourDuLich\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Project-DuAn\QuanLyTourDuLich_CNPM\QLTourDuLich\QLTourDuLich\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Project-DuAn\QuanLyTourDuLich_CNPM\QLTourDuLich\QLTourDuLich\bin\Debug\System.ValueTuple.xml
+D:\Project-DuAn\QuanLyTourDuLich_CNPM\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.csproj.CopyComplete
+D:\hoctapnam3\Congnghephammem\update4\QLTourDuLich\QLTourDuLich\bin\Debug\QLTourDuLich.exe.config
+D:\hoctapnam3\Congnghephammem\update4\QLTourDuLich\QLTourDuLich\bin\Debug\QLTourDuLich.exe
+D:\hoctapnam3\Congnghephammem\update4\QLTourDuLich\QLTourDuLich\bin\Debug\QLTourDuLich.pdb
+D:\hoctapnam3\Congnghephammem\update4\QLTourDuLich\QLTourDuLich\bin\Debug\LamarCodeGeneration.dll
+D:\hoctapnam3\Congnghephammem\update4\QLTourDuLich\QLTourDuLich\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\hoctapnam3\Congnghephammem\update4\QLTourDuLich\QLTourDuLich\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\hoctapnam3\Congnghephammem\update4\QLTourDuLich\QLTourDuLich\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\hoctapnam3\Congnghephammem\update4\QLTourDuLich\QLTourDuLich\bin\Debug\System.ValueTuple.dll
+D:\hoctapnam3\Congnghephammem\update4\QLTourDuLich\QLTourDuLich\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\hoctapnam3\Congnghephammem\update4\QLTourDuLich\QLTourDuLich\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\hoctapnam3\Congnghephammem\update4\QLTourDuLich\QLTourDuLich\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\hoctapnam3\Congnghephammem\update4\QLTourDuLich\QLTourDuLich\bin\Debug\System.ValueTuple.xml
+D:\hoctapnam3\Congnghephammem\update4\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.csprojAssemblyReference.cache
+D:\hoctapnam3\Congnghephammem\update4\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_DoiMKAdmin.resources
+D:\hoctapnam3\Congnghephammem\update4\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_HomeAdmin.resources
+D:\hoctapnam3\Congnghephammem\update4\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_QLDDTQ.resources
+D:\hoctapnam3\Congnghephammem\update4\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_QLKH.resources
+D:\hoctapnam3\Congnghephammem\update4\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_QLKS.resources
+D:\hoctapnam3\Congnghephammem\update4\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_QLNV.resources
+D:\hoctapnam3\Congnghephammem\update4\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_QLPT.resources
+D:\hoctapnam3\Congnghephammem\update4\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_QLTour.resources
+D:\hoctapnam3\Congnghephammem\update4\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_QLVe.resources
+D:\hoctapnam3\Congnghephammem\update4\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_DN_DK.Frm_DangKy.resources
+D:\hoctapnam3\Congnghephammem\update4\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_DangNhap.resources
+D:\hoctapnam3\Congnghephammem\update4\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_KH.Frm_DatTour.resources
+D:\hoctapnam3\Congnghephammem\update4\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_KH.Frm_DoiMKKH.resources
+D:\hoctapnam3\Congnghephammem\update4\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_KH.Frm_HomeKH.resources
+D:\hoctapnam3\Congnghephammem\update4\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_KH.Frm_TTCaNhanKH.resources
+D:\hoctapnam3\Congnghephammem\update4\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_DoiMKNV.resources
+D:\hoctapnam3\Congnghephammem\update4\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_HomeNV.resources
+D:\hoctapnam3\Congnghephammem\update4\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_QLDDTQ_NV.resources
+D:\hoctapnam3\Congnghephammem\update4\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_QLKH_NV.resources
+D:\hoctapnam3\Congnghephammem\update4\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_QLKS_NV.resources
+D:\hoctapnam3\Congnghephammem\update4\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_QLPT_NV.resources
+D:\hoctapnam3\Congnghephammem\update4\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_QLTour_NV.resources
+D:\hoctapnam3\Congnghephammem\update4\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_QLVe_NV.resources
+D:\hoctapnam3\Congnghephammem\update4\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_TTCaNhan_NV.resources
+D:\hoctapnam3\Congnghephammem\update4\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Properties.Resources.resources
+D:\hoctapnam3\Congnghephammem\update4\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.csproj.GenerateResource.cache
+D:\hoctapnam3\Congnghephammem\update4\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.csproj.CoreCompileInputs.cache
+D:\hoctapnam3\Congnghephammem\update4\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.csproj.CopyComplete
+D:\hoctapnam3\Congnghephammem\update4\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.exe
+D:\hoctapnam3\Congnghephammem\update4\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.pdb
+C:\Users\ASUS\OneDrive\Máy tính\QLTourDuLich\QLTourDuLich\bin\Debug\QLTourDuLich.exe.config
+C:\Users\ASUS\OneDrive\Máy tính\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.exe
+C:\Users\ASUS\OneDrive\Máy tính\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.pdb
+C:\Users\ASUS\OneDrive\Máy tính\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_DoiMKAdmin.resources
+C:\Users\ASUS\OneDrive\Máy tính\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_HomeAdmin.resources
+C:\Users\ASUS\OneDrive\Máy tính\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_QLDDTQ.resources
+C:\Users\ASUS\OneDrive\Máy tính\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_QLKH.resources
+C:\Users\ASUS\OneDrive\Máy tính\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_QLKS.resources
+C:\Users\ASUS\OneDrive\Máy tính\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_QLNV.resources
+C:\Users\ASUS\OneDrive\Máy tính\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_QLPT.resources
+C:\Users\ASUS\OneDrive\Máy tính\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_QLTour.resources
+C:\Users\ASUS\OneDrive\Máy tính\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_QLVe.resources
+C:\Users\ASUS\OneDrive\Máy tính\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_DN_DK.Frm_DangKy.resources
+C:\Users\ASUS\OneDrive\Máy tính\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_DangNhap.resources
+C:\Users\ASUS\OneDrive\Máy tính\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_KH.Frm_DatTour.resources
+C:\Users\ASUS\OneDrive\Máy tính\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_KH.Frm_DoiMKKH.resources
+C:\Users\ASUS\OneDrive\Máy tính\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_KH.Frm_HomeKH.resources
+C:\Users\ASUS\OneDrive\Máy tính\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_KH.Frm_TTCaNhanKH.resources
+C:\Users\ASUS\OneDrive\Máy tính\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_DoiMKNV.resources
+C:\Users\ASUS\OneDrive\Máy tính\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_HomeNV.resources
+C:\Users\ASUS\OneDrive\Máy tính\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_QLDDTQ_NV.resources
+C:\Users\ASUS\OneDrive\Máy tính\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_QLKH_NV.resources
+C:\Users\ASUS\OneDrive\Máy tính\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_QLKS_NV.resources
+C:\Users\ASUS\OneDrive\Máy tính\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_QLPT_NV.resources
+C:\Users\ASUS\OneDrive\Máy tính\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_QLTour_NV.resources
+C:\Users\ASUS\OneDrive\Máy tính\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_QLVe_NV.resources
+C:\Users\ASUS\OneDrive\Máy tính\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_TTCaNhan_NV.resources
+C:\Users\ASUS\OneDrive\Máy tính\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Máy tính\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.csproj.GenerateResource.Cache
+C:\Users\ASUS\OneDrive\Máy tính\QLTourDuLich\QLTourDuLich\bin\Debug\QLTourDuLich.exe
+C:\Users\ASUS\OneDrive\Máy tính\QLTourDuLich\QLTourDuLich\bin\Debug\QLTourDuLich.pdb
+C:\Users\ASUS\OneDrive\Máy tính\QLTourDuLich\QLTourDuLich\bin\Debug\LamarCodeGeneration.dll
+C:\Users\ASUS\OneDrive\Máy tính\QLTourDuLich\QLTourDuLich\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ASUS\OneDrive\Máy tính\QLTourDuLich\QLTourDuLich\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ASUS\OneDrive\Máy tính\QLTourDuLich\QLTourDuLich\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\OneDrive\Máy tính\QLTourDuLich\QLTourDuLich\bin\Debug\System.ValueTuple.dll
+C:\Users\ASUS\OneDrive\Máy tính\QLTourDuLich\QLTourDuLich\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ASUS\OneDrive\Máy tính\QLTourDuLich\QLTourDuLich\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ASUS\OneDrive\Máy tính\QLTourDuLich\QLTourDuLich\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ASUS\OneDrive\Máy tính\QLTourDuLich\QLTourDuLich\bin\Debug\System.ValueTuple.xml
+C:\Users\ASUS\OneDrive\Máy tính\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Máy tính\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\OneDrive\Máy tính\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Máy tính\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.csproj.CopyComplete
+D:\hoctapnam3\Congnghephammem\update5\QLTourDuLich\QLTourDuLich\bin\Debug\QLTourDuLich.exe.config
+D:\hoctapnam3\Congnghephammem\update5\QLTourDuLich\QLTourDuLich\bin\Debug\QLTourDuLich.exe
+D:\hoctapnam3\Congnghephammem\update5\QLTourDuLich\QLTourDuLich\bin\Debug\QLTourDuLich.pdb
+D:\hoctapnam3\Congnghephammem\update5\QLTourDuLich\QLTourDuLich\bin\Debug\LamarCodeGeneration.dll
+D:\hoctapnam3\Congnghephammem\update5\QLTourDuLich\QLTourDuLich\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\hoctapnam3\Congnghephammem\update5\QLTourDuLich\QLTourDuLich\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\hoctapnam3\Congnghephammem\update5\QLTourDuLich\QLTourDuLich\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\hoctapnam3\Congnghephammem\update5\QLTourDuLich\QLTourDuLich\bin\Debug\System.ValueTuple.dll
+D:\hoctapnam3\Congnghephammem\update5\QLTourDuLich\QLTourDuLich\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\hoctapnam3\Congnghephammem\update5\QLTourDuLich\QLTourDuLich\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\hoctapnam3\Congnghephammem\update5\QLTourDuLich\QLTourDuLich\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\hoctapnam3\Congnghephammem\update5\QLTourDuLich\QLTourDuLich\bin\Debug\System.ValueTuple.xml
+D:\hoctapnam3\Congnghephammem\update5\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.csprojAssemblyReference.cache
+D:\hoctapnam3\Congnghephammem\update5\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_DoiMKAdmin.resources
+D:\hoctapnam3\Congnghephammem\update5\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_HomeAdmin.resources
+D:\hoctapnam3\Congnghephammem\update5\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_QLDDTQ.resources
+D:\hoctapnam3\Congnghephammem\update5\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_QLKH.resources
+D:\hoctapnam3\Congnghephammem\update5\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_QLKS.resources
+D:\hoctapnam3\Congnghephammem\update5\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_QLNV.resources
+D:\hoctapnam3\Congnghephammem\update5\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_QLPT.resources
+D:\hoctapnam3\Congnghephammem\update5\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_QLTour.resources
+D:\hoctapnam3\Congnghephammem\update5\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_QLVe.resources
+D:\hoctapnam3\Congnghephammem\update5\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_DN_DK.Frm_DangKy.resources
+D:\hoctapnam3\Congnghephammem\update5\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_DangNhap.resources
+D:\hoctapnam3\Congnghephammem\update5\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_KH.Frm_DatTour.resources
+D:\hoctapnam3\Congnghephammem\update5\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_KH.Frm_DoiMKKH.resources
+D:\hoctapnam3\Congnghephammem\update5\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_KH.Frm_HomeKH.resources
+D:\hoctapnam3\Congnghephammem\update5\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_KH.Frm_TTCaNhanKH.resources
+D:\hoctapnam3\Congnghephammem\update5\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_DoiMKNV.resources
+D:\hoctapnam3\Congnghephammem\update5\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_HomeNV.resources
+D:\hoctapnam3\Congnghephammem\update5\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_QLDDTQ_NV.resources
+D:\hoctapnam3\Congnghephammem\update5\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_QLKH_NV.resources
+D:\hoctapnam3\Congnghephammem\update5\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_QLKS_NV.resources
+D:\hoctapnam3\Congnghephammem\update5\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_QLPT_NV.resources
+D:\hoctapnam3\Congnghephammem\update5\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_QLTour_NV.resources
+D:\hoctapnam3\Congnghephammem\update5\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_QLVe_NV.resources
+D:\hoctapnam3\Congnghephammem\update5\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_TTCaNhan_NV.resources
+D:\hoctapnam3\Congnghephammem\update5\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Properties.Resources.resources
+D:\hoctapnam3\Congnghephammem\update5\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.csproj.GenerateResource.cache
+D:\hoctapnam3\Congnghephammem\update5\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.csproj.CoreCompileInputs.cache
+D:\hoctapnam3\Congnghephammem\update5\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.csproj.CopyComplete
+D:\hoctapnam3\Congnghephammem\update5\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.exe
+D:\hoctapnam3\Congnghephammem\update5\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.pdb
+D:\hoctapnam3\Congnghephammem\update6\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.csprojAssemblyReference.cache
+D:\hoctapnam3\Congnghephammem\update6\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_DoiMKAdmin.resources
+D:\hoctapnam3\Congnghephammem\update6\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_HomeAdmin.resources
+D:\hoctapnam3\Congnghephammem\update6\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_QLDDTQ.resources
+D:\hoctapnam3\Congnghephammem\update6\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_QLKH.resources
+D:\hoctapnam3\Congnghephammem\update6\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_QLKS.resources
+D:\hoctapnam3\Congnghephammem\update6\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_QLNV.resources
+D:\hoctapnam3\Congnghephammem\update6\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_QLPT.resources
+D:\hoctapnam3\Congnghephammem\update6\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_QLTour.resources
+D:\hoctapnam3\Congnghephammem\update6\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_QLVe.resources
+D:\hoctapnam3\Congnghephammem\update6\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_DN_DK.Frm_DangKy.resources
+D:\hoctapnam3\Congnghephammem\update6\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_DangNhap.resources
+D:\hoctapnam3\Congnghephammem\update6\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_KH.Frm_DatTour.resources
+D:\hoctapnam3\Congnghephammem\update6\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_KH.Frm_DoiMKKH.resources
+D:\hoctapnam3\Congnghephammem\update6\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_KH.Frm_HomeKH.resources
+D:\hoctapnam3\Congnghephammem\update6\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_KH.Frm_TTCaNhanKH.resources
+D:\hoctapnam3\Congnghephammem\update6\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.GUI.Frm_NV.Frm_DoiMKNV.resources
+D:\hoctapnam3\Congnghephammem\update6\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_HomeNV.resources
+D:\hoctapnam3\Congnghephammem\update6\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_QLDDTQ_NV.resources
+D:\hoctapnam3\Congnghephammem\update6\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_QLKH_NV.resources
+D:\hoctapnam3\Congnghephammem\update6\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_QLKS_NV.resources
+D:\hoctapnam3\Congnghephammem\update6\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_QLPT_NV.resources
+D:\hoctapnam3\Congnghephammem\update6\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_QLTour_NV.resources
+D:\hoctapnam3\Congnghephammem\update6\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_QLVe_NV.resources
+D:\hoctapnam3\Congnghephammem\update6\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_TTCaNhan_NV.resources
+D:\hoctapnam3\Congnghephammem\update6\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Properties.Resources.resources
+D:\hoctapnam3\Congnghephammem\update6\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.csproj.GenerateResource.cache
+D:\hoctapnam3\Congnghephammem\update6\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.csproj.CoreCompileInputs.cache
+D:\hoctapnam3\Congnghephammem\update6\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.exe
+D:\hoctapnam3\Congnghephammem\update6\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.pdb
+D:\hoctapnam3\Congnghephammem\update6\QLTourDuLich\QLTourDuLich\bin\Debug\QLTourDuLich.exe.config
+D:\hoctapnam3\Congnghephammem\update6\QLTourDuLich\QLTourDuLich\bin\Debug\QLTourDuLich.exe
+D:\hoctapnam3\Congnghephammem\update6\QLTourDuLich\QLTourDuLich\bin\Debug\QLTourDuLich.pdb
+D:\hoctapnam3\Congnghephammem\update6\QLTourDuLich\QLTourDuLich\bin\Debug\LamarCodeGeneration.dll
+D:\hoctapnam3\Congnghephammem\update6\QLTourDuLich\QLTourDuLich\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\hoctapnam3\Congnghephammem\update6\QLTourDuLich\QLTourDuLich\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\hoctapnam3\Congnghephammem\update6\QLTourDuLich\QLTourDuLich\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\hoctapnam3\Congnghephammem\update6\QLTourDuLich\QLTourDuLich\bin\Debug\System.ValueTuple.dll
+D:\hoctapnam3\Congnghephammem\update6\QLTourDuLich\QLTourDuLich\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\hoctapnam3\Congnghephammem\update6\QLTourDuLich\QLTourDuLich\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\hoctapnam3\Congnghephammem\update6\QLTourDuLich\QLTourDuLich\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\hoctapnam3\Congnghephammem\update6\QLTourDuLich\QLTourDuLich\bin\Debug\System.ValueTuple.xml
+D:\hoctapnam3\Congnghephammem\update6\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.csproj.CopyComplete
+C:\Users\ASUS\Desktop\QLTourDuLich (1)\QLTourDuLich\QLTourDuLich\bin\Debug\QLTourDuLich.exe.config
+C:\Users\ASUS\Desktop\QLTourDuLich (1)\QLTourDuLich\QLTourDuLich\bin\Debug\QLTourDuLich.exe
+C:\Users\ASUS\Desktop\QLTourDuLich (1)\QLTourDuLich\QLTourDuLich\bin\Debug\QLTourDuLich.pdb
+C:\Users\ASUS\Desktop\QLTourDuLich (1)\QLTourDuLich\QLTourDuLich\bin\Debug\LamarCodeGeneration.dll
+C:\Users\ASUS\Desktop\QLTourDuLich (1)\QLTourDuLich\QLTourDuLich\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ASUS\Desktop\QLTourDuLich (1)\QLTourDuLich\QLTourDuLich\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ASUS\Desktop\QLTourDuLich (1)\QLTourDuLich\QLTourDuLich\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\Desktop\QLTourDuLich (1)\QLTourDuLich\QLTourDuLich\bin\Debug\System.ValueTuple.dll
+C:\Users\ASUS\Desktop\QLTourDuLich (1)\QLTourDuLich\QLTourDuLich\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ASUS\Desktop\QLTourDuLich (1)\QLTourDuLich\QLTourDuLich\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ASUS\Desktop\QLTourDuLich (1)\QLTourDuLich\QLTourDuLich\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ASUS\Desktop\QLTourDuLich (1)\QLTourDuLich\QLTourDuLich\bin\Debug\System.ValueTuple.xml
+C:\Users\ASUS\Desktop\QLTourDuLich (1)\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\QLTourDuLich (1)\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_DoiMKAdmin.resources
+C:\Users\ASUS\Desktop\QLTourDuLich (1)\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_HomeAdmin.resources
+C:\Users\ASUS\Desktop\QLTourDuLich (1)\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_QLDDTQ.resources
+C:\Users\ASUS\Desktop\QLTourDuLich (1)\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_QLKH.resources
+C:\Users\ASUS\Desktop\QLTourDuLich (1)\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_QLKS.resources
+C:\Users\ASUS\Desktop\QLTourDuLich (1)\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_QLNV.resources
+C:\Users\ASUS\Desktop\QLTourDuLich (1)\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_QLPT.resources
+C:\Users\ASUS\Desktop\QLTourDuLich (1)\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_QLTour.resources
+C:\Users\ASUS\Desktop\QLTourDuLich (1)\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_QLVe.resources
+C:\Users\ASUS\Desktop\QLTourDuLich (1)\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_DN_DK.Frm_DangKy.resources
+C:\Users\ASUS\Desktop\QLTourDuLich (1)\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_DangNhap.resources
+C:\Users\ASUS\Desktop\QLTourDuLich (1)\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_KH.Frm_DatTour.resources
+C:\Users\ASUS\Desktop\QLTourDuLich (1)\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_KH.Frm_DoiMKKH.resources
+C:\Users\ASUS\Desktop\QLTourDuLich (1)\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_KH.Frm_HomeKH.resources
+C:\Users\ASUS\Desktop\QLTourDuLich (1)\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_KH.Frm_TTCaNhanKH.resources
+C:\Users\ASUS\Desktop\QLTourDuLich (1)\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.GUI.Frm_NV.Frm_DoiMKNV.resources
+C:\Users\ASUS\Desktop\QLTourDuLich (1)\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_HomeNV.resources
+C:\Users\ASUS\Desktop\QLTourDuLich (1)\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_QLDDTQ_NV.resources
+C:\Users\ASUS\Desktop\QLTourDuLich (1)\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_QLKH_NV.resources
+C:\Users\ASUS\Desktop\QLTourDuLich (1)\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_QLKS_NV.resources
+C:\Users\ASUS\Desktop\QLTourDuLich (1)\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_QLPT_NV.resources
+C:\Users\ASUS\Desktop\QLTourDuLich (1)\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_QLTour_NV.resources
+C:\Users\ASUS\Desktop\QLTourDuLich (1)\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_QLVe_NV.resources
+C:\Users\ASUS\Desktop\QLTourDuLich (1)\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_TTCaNhan_NV.resources
+C:\Users\ASUS\Desktop\QLTourDuLich (1)\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Properties.Resources.resources
+C:\Users\ASUS\Desktop\QLTourDuLich (1)\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\QLTourDuLich (1)\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\QLTourDuLich (1)\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.csproj.CopyComplete
+C:\Users\ASUS\Desktop\QLTourDuLich (1)\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.exe
+C:\Users\ASUS\Desktop\QLTourDuLich (1)\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.pdb
+C:\Users\DELL\Desktop\TraThuoc\update8\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\TraThuoc\update8\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_DoiMKAdmin.resources
+C:\Users\DELL\Desktop\TraThuoc\update8\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_HomeAdmin.resources
+C:\Users\DELL\Desktop\TraThuoc\update8\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_QLDDTQ.resources
+C:\Users\DELL\Desktop\TraThuoc\update8\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_QLKH.resources
+C:\Users\DELL\Desktop\TraThuoc\update8\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_QLKS.resources
+C:\Users\DELL\Desktop\TraThuoc\update8\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_QLNV.resources
+C:\Users\DELL\Desktop\TraThuoc\update8\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_QLPT.resources
+C:\Users\DELL\Desktop\TraThuoc\update8\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_QLTour.resources
+C:\Users\DELL\Desktop\TraThuoc\update8\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_QLVe.resources
+C:\Users\DELL\Desktop\TraThuoc\update8\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_DN_DK.Frm_DangKy.resources
+C:\Users\DELL\Desktop\TraThuoc\update8\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_DangNhap.resources
+C:\Users\DELL\Desktop\TraThuoc\update8\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_KH.Frm_DatTour.resources
+C:\Users\DELL\Desktop\TraThuoc\update8\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_KH.Frm_DoiMKKH.resources
+C:\Users\DELL\Desktop\TraThuoc\update8\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_KH.Frm_HomeKH.resources
+C:\Users\DELL\Desktop\TraThuoc\update8\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_KH.Frm_TTCaNhanKH.resources
+C:\Users\DELL\Desktop\TraThuoc\update8\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.GUI.Frm_NV.Frm_DoiMKNV.resources
+C:\Users\DELL\Desktop\TraThuoc\update8\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_HomeNV.resources
+C:\Users\DELL\Desktop\TraThuoc\update8\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_QLDDTQ_NV.resources
+C:\Users\DELL\Desktop\TraThuoc\update8\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_QLKH_NV.resources
+C:\Users\DELL\Desktop\TraThuoc\update8\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_QLKS_NV.resources
+C:\Users\DELL\Desktop\TraThuoc\update8\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_QLPT_NV.resources
+C:\Users\DELL\Desktop\TraThuoc\update8\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_QLTour_NV.resources
+C:\Users\DELL\Desktop\TraThuoc\update8\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_QLVe_NV.resources
+C:\Users\DELL\Desktop\TraThuoc\update8\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_TTCaNhan_NV.resources
+C:\Users\DELL\Desktop\TraThuoc\update8\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Properties.Resources.resources
+C:\Users\DELL\Desktop\TraThuoc\update8\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\TraThuoc\update8\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\TraThuoc\update8\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.exe
+C:\Users\DELL\Desktop\TraThuoc\update8\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.pdb
+C:\Users\DELL\Desktop\TraThuoc\update8\QLTourDuLich\QLTourDuLich\bin\Debug\QLTourDuLich.exe.config
+C:\Users\DELL\Desktop\TraThuoc\update8\QLTourDuLich\QLTourDuLich\bin\Debug\QLTourDuLich.exe
+C:\Users\DELL\Desktop\TraThuoc\update8\QLTourDuLich\QLTourDuLich\bin\Debug\QLTourDuLich.pdb
+C:\Users\DELL\Desktop\TraThuoc\update8\QLTourDuLich\QLTourDuLich\bin\Debug\LamarCodeGeneration.dll
+C:\Users\DELL\Desktop\TraThuoc\update8\QLTourDuLich\QLTourDuLich\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DELL\Desktop\TraThuoc\update8\QLTourDuLich\QLTourDuLich\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\Desktop\TraThuoc\update8\QLTourDuLich\QLTourDuLich\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Desktop\TraThuoc\update8\QLTourDuLich\QLTourDuLich\bin\Debug\System.ValueTuple.dll
+C:\Users\DELL\Desktop\TraThuoc\update8\QLTourDuLich\QLTourDuLich\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\DELL\Desktop\TraThuoc\update8\QLTourDuLich\QLTourDuLich\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\Desktop\TraThuoc\update8\QLTourDuLich\QLTourDuLich\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DELL\Desktop\TraThuoc\update8\QLTourDuLich\QLTourDuLich\bin\Debug\System.ValueTuple.xml
+C:\Users\DELL\Desktop\TraThuoc\update8\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.csproj.CopyComplete
+D:\hoctapnam3\Congnghephammem\DA_CNPM_NHOM_5\SOURCE\QLTourDuLich\QLTourDuLich\bin\Debug\QLTourDuLich.exe.config
+D:\hoctapnam3\Congnghephammem\DA_CNPM_NHOM_5\SOURCE\QLTourDuLich\QLTourDuLich\bin\Debug\QLTourDuLich.exe
+D:\hoctapnam3\Congnghephammem\DA_CNPM_NHOM_5\SOURCE\QLTourDuLich\QLTourDuLich\bin\Debug\QLTourDuLich.pdb
+D:\hoctapnam3\Congnghephammem\DA_CNPM_NHOM_5\SOURCE\QLTourDuLich\QLTourDuLich\bin\Debug\LamarCodeGeneration.dll
+D:\hoctapnam3\Congnghephammem\DA_CNPM_NHOM_5\SOURCE\QLTourDuLich\QLTourDuLich\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\hoctapnam3\Congnghephammem\DA_CNPM_NHOM_5\SOURCE\QLTourDuLich\QLTourDuLich\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\hoctapnam3\Congnghephammem\DA_CNPM_NHOM_5\SOURCE\QLTourDuLich\QLTourDuLich\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\hoctapnam3\Congnghephammem\DA_CNPM_NHOM_5\SOURCE\QLTourDuLich\QLTourDuLich\bin\Debug\System.ValueTuple.dll
+D:\hoctapnam3\Congnghephammem\DA_CNPM_NHOM_5\SOURCE\QLTourDuLich\QLTourDuLich\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\hoctapnam3\Congnghephammem\DA_CNPM_NHOM_5\SOURCE\QLTourDuLich\QLTourDuLich\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\hoctapnam3\Congnghephammem\DA_CNPM_NHOM_5\SOURCE\QLTourDuLich\QLTourDuLich\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\hoctapnam3\Congnghephammem\DA_CNPM_NHOM_5\SOURCE\QLTourDuLich\QLTourDuLich\bin\Debug\System.ValueTuple.xml
+D:\hoctapnam3\Congnghephammem\DA_CNPM_NHOM_5\SOURCE\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_DoiMKAdmin.resources
+D:\hoctapnam3\Congnghephammem\DA_CNPM_NHOM_5\SOURCE\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_HomeAdmin.resources
+D:\hoctapnam3\Congnghephammem\DA_CNPM_NHOM_5\SOURCE\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_QLDDTQ.resources
+D:\hoctapnam3\Congnghephammem\DA_CNPM_NHOM_5\SOURCE\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_QLKH.resources
+D:\hoctapnam3\Congnghephammem\DA_CNPM_NHOM_5\SOURCE\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_QLKS.resources
+D:\hoctapnam3\Congnghephammem\DA_CNPM_NHOM_5\SOURCE\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_QLNV.resources
+D:\hoctapnam3\Congnghephammem\DA_CNPM_NHOM_5\SOURCE\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_QLPT.resources
+D:\hoctapnam3\Congnghephammem\DA_CNPM_NHOM_5\SOURCE\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_QLTour.resources
+D:\hoctapnam3\Congnghephammem\DA_CNPM_NHOM_5\SOURCE\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_Admin.Frm_QLVe.resources
+D:\hoctapnam3\Congnghephammem\DA_CNPM_NHOM_5\SOURCE\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_DN_DK.Frm_DangKy.resources
+D:\hoctapnam3\Congnghephammem\DA_CNPM_NHOM_5\SOURCE\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_DangNhap.resources
+D:\hoctapnam3\Congnghephammem\DA_CNPM_NHOM_5\SOURCE\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_KH.Frm_DatTour.resources
+D:\hoctapnam3\Congnghephammem\DA_CNPM_NHOM_5\SOURCE\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_KH.Frm_DoiMKKH.resources
+D:\hoctapnam3\Congnghephammem\DA_CNPM_NHOM_5\SOURCE\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_KH.Frm_HomeKH.resources
+D:\hoctapnam3\Congnghephammem\DA_CNPM_NHOM_5\SOURCE\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_KH.Frm_TTCaNhanKH.resources
+D:\hoctapnam3\Congnghephammem\DA_CNPM_NHOM_5\SOURCE\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.GUI.Frm_NV.Frm_DoiMKNV.resources
+D:\hoctapnam3\Congnghephammem\DA_CNPM_NHOM_5\SOURCE\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_HomeNV.resources
+D:\hoctapnam3\Congnghephammem\DA_CNPM_NHOM_5\SOURCE\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_QLDDTQ_NV.resources
+D:\hoctapnam3\Congnghephammem\DA_CNPM_NHOM_5\SOURCE\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_QLKH_NV.resources
+D:\hoctapnam3\Congnghephammem\DA_CNPM_NHOM_5\SOURCE\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_QLKS_NV.resources
+D:\hoctapnam3\Congnghephammem\DA_CNPM_NHOM_5\SOURCE\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_QLPT_NV.resources
+D:\hoctapnam3\Congnghephammem\DA_CNPM_NHOM_5\SOURCE\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_QLTour_NV.resources
+D:\hoctapnam3\Congnghephammem\DA_CNPM_NHOM_5\SOURCE\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_QLVe_NV.resources
+D:\hoctapnam3\Congnghephammem\DA_CNPM_NHOM_5\SOURCE\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Frm_NV.Frm_TTCaNhan_NV.resources
+D:\hoctapnam3\Congnghephammem\DA_CNPM_NHOM_5\SOURCE\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.Properties.Resources.resources
+D:\hoctapnam3\Congnghephammem\DA_CNPM_NHOM_5\SOURCE\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.csproj.GenerateResource.cache
+D:\hoctapnam3\Congnghephammem\DA_CNPM_NHOM_5\SOURCE\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.csproj.CoreCompileInputs.cache
+D:\hoctapnam3\Congnghephammem\DA_CNPM_NHOM_5\SOURCE\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.csproj.CopyComplete
+D:\hoctapnam3\Congnghephammem\DA_CNPM_NHOM_5\SOURCE\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.exe
+D:\hoctapnam3\Congnghephammem\DA_CNPM_NHOM_5\SOURCE\QLTourDuLich\QLTourDuLich\obj\Debug\QLTourDuLich.pdb

@@ -1,0 +1,393 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8BD7126F-F034-4194-9F6D-C186943FBC8A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>QLTourDuLich</RootNamespace>
+    <AssemblyName>QLTourDuLich</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="LamarCodeGeneration, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\LamarCodeGeneration.6.1.6\lib\netstandard2.0\LamarCodeGeneration.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=5.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Bcl.AsyncInterfaces.5.0.0\lib\net461\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=4.0.4.1, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.4.5.3\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BUS\BUS_Admin\BUS_DoiMKAdmin.cs" />
+    <Compile Include="BUS\BUS_Admin\BUS_QLDDTQ.cs" />
+    <Compile Include="BUS\BUS_Admin\BUS_QLKH.cs" />
+    <Compile Include="BUS\BUS_Admin\BUS_QLKS.cs" />
+    <Compile Include="BUS\BUS_Admin\BUS_QLNV.cs" />
+    <Compile Include="BUS\BUS_Admin\BUS_QLPT.cs" />
+    <Compile Include="BUS\BUS_Admin\BUS_QLTour.cs" />
+    <Compile Include="BUS\BUS_Admin\BUS_QLVe.cs" />
+    <Compile Include="BUS\BUS_DN-DK\BUS_DangKy.cs" />
+    <Compile Include="BUS\BUS_DN-DK\BUS_DangNhap.cs" />
+    <Compile Include="BUS\BUS_KH\BUS_DatTour.cs" />
+    <Compile Include="BUS\BUS_KH\BUS_DoiMKKH.cs" />
+    <Compile Include="BUS\BUS_KH\BUS_TTCaNhanKH.cs" />
+    <Compile Include="BUS\BUS_NV\BUS_DoiMKNV.cs" />
+    <Compile Include="BUS\BUS_NV\BUS_QLDDTQ_NV.cs" />
+    <Compile Include="BUS\BUS_NV\BUS_QLKH_NV.cs" />
+    <Compile Include="BUS\BUS_NV\BUS_QLKS_NV.cs" />
+    <Compile Include="BUS\BUS_NV\BUS_QLPT_NV.cs" />
+    <Compile Include="BUS\BUS_NV\BUS_QLTour_NV.cs" />
+    <Compile Include="BUS\BUS_NV\BUS_QLVe_NV.cs" />
+    <Compile Include="BUS\BUS_NV\BUS_TTCaNhan_NV.cs" />
+    <Compile Include="DAO\XuLyKetNoi.cs" />
+    <Compile Include="DTO\DTO_Admin\DTO_DoiMKAdmin.cs" />
+    <Compile Include="DTO\DTO_Admin\DTO_QLDDTQ.cs" />
+    <Compile Include="DTO\DTO_Admin\DTO_QLKH.cs" />
+    <Compile Include="DTO\DTO_Admin\DTO_QLKS.cs" />
+    <Compile Include="DTO\DTO_Admin\DTO_QLNV.cs" />
+    <Compile Include="DTO\DTO_Admin\DTO_QLPT.cs" />
+    <Compile Include="DTO\DTO_Admin\DTO_QLTour.cs" />
+    <Compile Include="DTO\DTO_Admin\DTO_QLVe.cs" />
+    <Compile Include="DTO\DTO_DN-DK\DTO_DangKy.cs" />
+    <Compile Include="DTO\DTO_DN-DK\DTO_DangNhap.cs" />
+    <Compile Include="DTO\DTO_KH\DTO_DatTour.cs" />
+    <Compile Include="DTO\DTO_KH\DTO_DoiMKKH.cs" />
+    <Compile Include="DTO\DTO_KH\DTO_TTCaNhanKH.cs" />
+    <Compile Include="DTO\DTO_NV\DTO_DoiMKNV.cs" />
+    <Compile Include="DTO\DTO_NV\DTO_QLDDTQ_NV.cs" />
+    <Compile Include="DTO\DTO_NV\DTO_QLKH_NV.cs" />
+    <Compile Include="DTO\DTO_NV\DTO_QLKS_NV.cs" />
+    <Compile Include="DTO\DTO_NV\DTO_QLPT_NV.cs" />
+    <Compile Include="DTO\DTO_NV\DTO_QLTour.cs" />
+    <Compile Include="DTO\DTO_NV\DTO_QLVe.cs" />
+    <Compile Include="DTO\DTO_NV\DTO_TTCaNhan_NV.cs" />
+    <Compile Include="GUI\Frm_Admin\Frm_DoiMKAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Frm_Admin\Frm_DoiMKAdmin.Designer.cs">
+      <DependentUpon>Frm_DoiMKAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Frm_Admin\Frm_HomeAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Frm_Admin\Frm_HomeAdmin.Designer.cs">
+      <DependentUpon>Frm_HomeAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Frm_Admin\Frm_QLDDTQ.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Frm_Admin\Frm_QLDDTQ.Designer.cs">
+      <DependentUpon>Frm_QLDDTQ.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Frm_Admin\Frm_QLKH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Frm_Admin\Frm_QLKH.Designer.cs">
+      <DependentUpon>Frm_QLKH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Frm_Admin\Frm_QLKS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Frm_Admin\Frm_QLKS.Designer.cs">
+      <DependentUpon>Frm_QLKS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Frm_Admin\Frm_QLNV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Frm_Admin\Frm_QLNV.Designer.cs">
+      <DependentUpon>Frm_QLNV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Frm_Admin\Frm_QLPT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Frm_Admin\Frm_QLPT.Designer.cs">
+      <DependentUpon>Frm_QLPT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Frm_Admin\Frm_QLTour.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Frm_Admin\Frm_QLTour.Designer.cs">
+      <DependentUpon>Frm_QLTour.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Frm_Admin\Frm_QLVe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Frm_Admin\Frm_QLVe.Designer.cs">
+      <DependentUpon>Frm_QLVe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Frm_DN-DK\Frm_DangKy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Frm_DN-DK\Frm_DangKy.Designer.cs">
+      <DependentUpon>Frm_DangKy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Frm_DN-DK\Frm_DangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Frm_DN-DK\Frm_DangNhap.Designer.cs">
+      <DependentUpon>Frm_DangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Frm_KH\Frm_DatTour.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Frm_KH\Frm_DatTour.Designer.cs">
+      <DependentUpon>Frm_DatTour.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Frm_KH\Frm_DoiMKKH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Frm_KH\Frm_DoiMKKH.Designer.cs">
+      <DependentUpon>Frm_DoiMKKH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Frm_KH\Frm_HomeKH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Frm_KH\Frm_HomeKH.Designer.cs">
+      <DependentUpon>Frm_HomeKH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Frm_KH\Frm_TTCaNhanKH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Frm_KH\Frm_TTCaNhanKH.Designer.cs">
+      <DependentUpon>Frm_TTCaNhanKH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Frm_NV\Frm_DoiMKNV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Frm_NV\Frm_DoiMKNV.Designer.cs">
+      <DependentUpon>Frm_DoiMKNV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Frm_NV\Frm_HomeNV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Frm_NV\Frm_HomeNV.Designer.cs">
+      <DependentUpon>Frm_HomeNV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Frm_NV\Frm_QLDDTQ_NV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Frm_NV\Frm_QLDDTQ_NV.Designer.cs">
+      <DependentUpon>Frm_QLDDTQ_NV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Frm_NV\Frm_QLKH_NV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Frm_NV\Frm_QLKH_NV.Designer.cs">
+      <DependentUpon>Frm_QLKH_NV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Frm_NV\Frm_QLKS_NV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Frm_NV\Frm_QLKS_NV.Designer.cs">
+      <DependentUpon>Frm_QLKS_NV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Frm_NV\Frm_QLPT_NV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Frm_NV\Frm_QLPT_NV.Designer.cs">
+      <DependentUpon>Frm_QLPT_NV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Frm_NV\Frm_QLTour_NV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Frm_NV\Frm_QLTour_NV.Designer.cs">
+      <DependentUpon>Frm_QLTour_NV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Frm_NV\Frm_QLVe_NV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Frm_NV\Frm_QLVe_NV.Designer.cs">
+      <DependentUpon>Frm_QLVe_NV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Frm_NV\Frm_TTCaNhan_NV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Frm_NV\Frm_TTCaNhan_NV.Designer.cs">
+      <DependentUpon>Frm_TTCaNhan_NV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="DAO\Xuly_Admin\xuLyDoiMKAdmin.cs" />
+    <Compile Include="DAO\Xuly_Admin\xuLyQLDDTQ.cs" />
+    <Compile Include="DAO\Xuly_Admin\xuLyQLKH.cs" />
+    <Compile Include="DAO\Xuly_Admin\xuLyQLKS.cs" />
+    <Compile Include="DAO\Xuly_Admin\xuLyQLNV.cs" />
+    <Compile Include="DAO\Xuly_Admin\xuLyQLPT.cs" />
+    <Compile Include="DAO\Xuly_Admin\xuLyQLTour.cs" />
+    <Compile Include="DAO\Xuly_Admin\xuLyQLVe.cs" />
+    <Compile Include="DAO\XuLy_DN-DK\xuLyBienTinh.cs" />
+    <Compile Include="DAO\XuLy_DN-DK\xuLyDangKy.cs" />
+    <Compile Include="DAO\XuLy_DN-DK\xuLyDangNhap.cs" />
+    <Compile Include="DAO\XuLy_KH\xuLyDatTour.cs" />
+    <Compile Include="DAO\XuLy_KH\xuLyDoiMKKH.cs" />
+    <Compile Include="DAO\XuLy_KH\xuLyTTCaNhan_KH.cs" />
+    <Compile Include="DAO\XuLy_NV\xuLyDoiMKNV.cs" />
+    <Compile Include="DAO\XuLy_NV\xuLyQLDDTQ_NV.cs" />
+    <Compile Include="DAO\XuLy_NV\xuLyQLKH_NV.cs" />
+    <Compile Include="DAO\XuLy_NV\xuLyQLKS_NV.cs" />
+    <Compile Include="DAO\XuLy_NV\xuLyQLPT_NV.cs" />
+    <Compile Include="DAO\XuLy_NV\xuLyQLTour_NV.cs" />
+    <Compile Include="DAO\XuLy_NV\xuLyQLVe_NV.cs" />
+    <Compile Include="DAO\XuLy_NV\xuLyTTCaNhan_NV.cs" />
+    <EmbeddedResource Include="GUI\Frm_Admin\Frm_DoiMKAdmin.resx">
+      <DependentUpon>Frm_DoiMKAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Frm_Admin\Frm_HomeAdmin.resx">
+      <DependentUpon>Frm_HomeAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Frm_Admin\Frm_QLDDTQ.resx">
+      <DependentUpon>Frm_QLDDTQ.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Frm_Admin\Frm_QLKH.resx">
+      <DependentUpon>Frm_QLKH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Frm_Admin\Frm_QLKS.resx">
+      <DependentUpon>Frm_QLKS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Frm_Admin\Frm_QLNV.resx">
+      <DependentUpon>Frm_QLNV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Frm_Admin\Frm_QLPT.resx">
+      <DependentUpon>Frm_QLPT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Frm_Admin\Frm_QLTour.resx">
+      <DependentUpon>Frm_QLTour.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Frm_Admin\Frm_QLVe.resx">
+      <DependentUpon>Frm_QLVe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Frm_DN-DK\Frm_DangKy.resx">
+      <DependentUpon>Frm_DangKy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Frm_DN-DK\Frm_DangNhap.resx">
+      <DependentUpon>Frm_DangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Frm_KH\Frm_DatTour.resx">
+      <DependentUpon>Frm_DatTour.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Frm_KH\Frm_DoiMKKH.resx">
+      <DependentUpon>Frm_DoiMKKH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Frm_KH\Frm_HomeKH.resx">
+      <DependentUpon>Frm_HomeKH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Frm_KH\Frm_TTCaNhanKH.resx">
+      <DependentUpon>Frm_TTCaNhanKH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Frm_NV\Frm_DoiMKNV.resx">
+      <DependentUpon>Frm_DoiMKNV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Frm_NV\Frm_HomeNV.resx">
+      <DependentUpon>Frm_HomeNV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Frm_NV\Frm_QLDDTQ_NV.resx">
+      <DependentUpon>Frm_QLDDTQ_NV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Frm_NV\Frm_QLKH_NV.resx">
+      <DependentUpon>Frm_QLKH_NV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Frm_NV\Frm_QLKS_NV.resx">
+      <DependentUpon>Frm_QLKS_NV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Frm_NV\Frm_QLPT_NV.resx">
+      <DependentUpon>Frm_QLPT_NV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Frm_NV\Frm_QLTour_NV.resx">
+      <DependentUpon>Frm_QLTour_NV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Frm_NV\Frm_QLVe_NV.resx">
+      <DependentUpon>Frm_QLVe_NV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Frm_NV\Frm_TTCaNhan_NV.resx">
+      <DependentUpon>Frm_TTCaNhan_NV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="images\add-button.png" />
+    <Content Include="images\circular-arows.png" />
+    <Content Include="images\delete.png" />
+    <Content Include="images\edit.png" />
+    <Content Include="images\hide.png" />
+    <Content Include="images\login.png" />
+    <Content Include="images\logo.ico" />
+    <Content Include="images\logo.png" />
+    <Content Include="images\logout.png" />
+    <Content Include="images\management.png" />
+    <Content Include="images\order.png" />
+    <Content Include="images\registration-form.png" />
+    <Content Include="images\reply.png" />
+    <Content Include="images\schedule.png" />
+    <Content Include="images\search.png" />
+    <Content Include="images\show.png" />
+    <Content Include="images\staff.png" />
+    <Content Include="images\user.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
